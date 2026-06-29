@@ -17,3 +17,4 @@ while(x!=n):
 
 cnt+=1
 print(f"you're right and the number of attempts is {cnt}")
+
